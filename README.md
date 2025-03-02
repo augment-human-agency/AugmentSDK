@@ -43,9 +43,10 @@ Pro Tip:
 
 
 Ko-fi: 
-Adds access to production-ready code examples, API integrations, and prompt implementation guides.
-Unlocks additional features like integration scenarios and one-shot implementation prompts.
-Custom Commercial License → For enterprises, ERP, and proprietary use.
+Adds access to production-ready code examples, API integrations, and prompt implementation guides.  
+Unlocks additional features like integration scenarios and one-shot implementation prompts.  
+Custom Commercial License → For enterprises, ERP, and proprietary use.  
+
 Licensing
 Non-Commercial Use: Free under the Apache 2.0 License
 
